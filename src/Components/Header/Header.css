@@ -1,0 +1,30 @@
+.logo img{
+    max-width: 100%;
+    width: 150px;
+}
+.header{
+   
+    padding: 20px 0 ;
+ }
+ .cart {
+    font-size: 20px;
+ }
+ .login{
+    width: 110px;
+    border-radius: 30px;
+    border: none;
+    padding: 7px 0;
+    margin: 0 24px;
+    font-weight: 500;
+    font-size: 17px ;
+}
+.signup{
+    width: 110px;
+    border-radius: 30px;
+    border: none;
+    padding: 7px 0;
+    font-weight: 500;
+    font-size: 17px ;
+    background: rgb(234, 48, 48);
+    color: white;
+}
